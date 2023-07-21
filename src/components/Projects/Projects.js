@@ -17,7 +17,8 @@ const Projects = () => (
             <HeaderThree title>{title}</HeaderThree>
             <Hr/>
           </TitleContent>
-          <CardInfo>{description}</CardInfo>
+          <CardInfo>{description} </CardInfo>
+          <br></br>
           <div>
             <TitleContent>
               Stack
@@ -30,11 +31,13 @@ const Projects = () => (
           </div>
           <UtilityList>
             <ExternalLinks href={visit}>
-              Code
+              View
             </ExternalLinks>
-            <ExternalLinks href={source}>
-              Source
-            </ExternalLinks>
+            {id !== 5 && id !== 6 && ( // Check if id is not equal to 5 or 6
+              <ExternalLinks href={source}>
+                Code
+              </ExternalLinks>
+            )}
           </UtilityList>
         </BlogCard>
       ))}

@@ -30,16 +30,16 @@ const Header = () =>  (
           </Link>
         </li>
         <li>
-          <Link href = "#about">
+          <Link href = "https://raphaelg76.github.io/portfolio_website/#about">
             <NavLink>About</NavLink>
           </Link>
         </li>
       </Div2>
       <Div3>
-        <SocialIcons href="https://github.com">
+        <SocialIcons href="https://github.com/RaphaelG76">
           <AiFillGithub size = "3rem"/>
         </SocialIcons>
-        <SocialIcons href="https://linkedin.com">
+        <SocialIcons href="https://www.linkedin.com/in/raphael-guerrero-b12a13161/">
           <AiFillLinkedin size = "3rem"/>
         </SocialIcons>
       </Div3>

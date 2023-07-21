@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionTitle> About Me </SectionTitle>
       <SectionText>
       Throughout my academic journey, 
-      I explored various technologies, and React.js stood out as something I would like to dedicate myself to study. It got rid of several things that were previously required and hated.
+      I explored various technologies, and react as well as java are ones I wanted to develop further than others.
       I though have recently developed an interest in cloud technology, and have began my study with cloud containers, specifically AWS.
       With a recent bachelor's degree in computer science, 
       I am enthusiastic about applying my knowledge of progrmaming and contributing to meaningful software solutions. 
