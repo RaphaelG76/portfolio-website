@@ -47,10 +47,11 @@ const Timeline = () => {
       <SectionTitle> About Me </SectionTitle>
       <SectionText>
       Throughout my academic journey, 
-      I explored various technologies, and react as well as java are ones I wanted to develop further than others.
-      I though have recently developed an interest in cloud technology, and have began my study with cloud containers, specifically AWS.
-      With a recent bachelor's degree in computer science, 
-      I am enthusiastic about applying my knowledge of progrmaming and contributing to meaningful software solutions. 
+      I explored various technologies. React and Java are ones I developed my personal skill with the furthest.
+      I though have recently developed an interest in cloud containers, and have began my study with IT. I specifically am working towards my 
+      SEC+ title.
+      With the recent obtainment of my bachelor's degree in computer science, 
+      I am enthusiastic about applying my knowledge of programming and contributing to meaningful software solutions. 
       </SectionText>
     </Section>
   );

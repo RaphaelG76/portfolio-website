@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Instagram UI Clone',
-    description: "Using Python and Kivy, I developed an Instagram UI clone app that faithfully replicates the original design, including profile grids and other essential features. The app provides a smooth user experience with seamless transitions.",
+    description: "Using Python and Kivy, I built an Instagram UI clone app that faithfully replicates the original design, including profile grids and other essential features. The app provides a smooth user experience with seamless transitions.",
       image: './images/igclone4.jpg',
       tags: ['Python','Kivy'],
     source: 'https://github.com/RaphaelG76/Projects/tree/main/igclone',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Responsive UI/UX Website',
-    description: "Built on a GPT-3 inspired theme, this React website offers a clean and fully responsive UI/UX, demonstrating simplicity and functionality.",
+    description: "Built on a GPT-3 inspired theme following a tutorial, this React website offers a clean and fully responsive UI/UX, demonstrating simplicity and functionality. I learned the extent of just how important clean and organized code helps in being efficient, as well as consistent with any project you do.",
     image: './images/gpt31.png',
     tags: ['React','JavaScript'],
     source: 'https://github.com/RaphaelG76/Projects/tree/main/gpt3_jsm',
@@ -37,16 +37,16 @@ export const projects = [
   },
   {
     title: 'Pygame Street Fighter',
-    description: "Built a 2P brawler using pygame which was inspired by Street Fighter ( and other brawler games), complete with animations, controls, and sound effects/music.",
+    description: "Built a 2P brawler which was inspired by Street Fighter ( and other brawler games) following a tutorial that used pygame, complete with animations, controls, and sound effects/music.",
     image: './images/fightgame1.png',
     tags: ['Python','Pygame'],
     source: 'https://github.com/RaphaelG76/Projects/tree/main/fight_game',
-    visit: 'https://www.youtube.com/watch?v=VrYQAnpfjCM',
+    visit: 'https://www.youtube.com/watch?v=T5sXoqofiLM',
     id: 4,
   },
   {
     title: 'Serverless Web Application',
-    description: "Built a serverless web application that utilizes various AWS services to power its functionalities. The application is hosted using AWS Amplify, and user pool data is managed through AWS Cognito. For handling horse ride requests, a RESTful API is deployed using API Gateway, and AWS Lambda functions are employed to process these requests. All the ride data is stored in Amazon DynamoDB.",
+    description: "Learned how to and built a serverless web application that utilizes various AWS services to power its functionalities. The application is hosted using AWS Amplify, and user pool data is managed through AWS Cognito. For handling horse ride requests, a RESTful API is deployed using API Gateway, and AWS Lambda functions are employed to process these requests. All the ride data is stored in Amazon DynamoDB.",
     image: './images/wildrydes1.png',
     tags: ['AWS Amplify','Cognito','Amazon API Gateway','AWS Lambda','DynamoDB'],
     source: 'https://github.com/RaphaelG76/Projects/edit/main/README.md',
@@ -57,7 +57,7 @@ export const projects = [
     title: 'Deploying WordPress Application',
     description: "Deployed then hosted a highly-available WordPress Application using EC2, RDC, and Elastic Beanstalk.",
     image: './images/wordpress1.png',
-    tags: ['EC2','RDC','VPC','Elastic Beanstalk'],
+    tags: ['EC2','RDS','VPC','Elastic Beanstalk'],
     source: 'https://github.com/RaphaelG76/Projects/edit/main/README.md',
     visit: 'https://github.com/RaphaelG76/Projects/edit/main/README.md',
     id: 6,

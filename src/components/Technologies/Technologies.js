@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br/>
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have worked with several technologies throughout my coding experience. I have made several front-end projects using React.js and other projects such as the games with Java and Python.
+      Worked with several technologies throughout my coding experience. Worked on several front-end projects using React.js and other projects such as the games with Java.
     </SectionText>
     <List>
       <ListItem>

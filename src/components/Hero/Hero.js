@@ -11,7 +11,10 @@ const Hero = (props) => (
         My Personal<br />
         Coding Portfolio
       </SectionTitle>
-      <Button onClick ={() => window.location = 'https://github.com/RaphaelG76/Projects'}> Learn More </Button>
+      <a href ="https://github.com/RaphaelG76/Projects">
+      <Button> Learn More </Button>
+      </a>
+      
     </LeftSection>
   </Section>
 );
