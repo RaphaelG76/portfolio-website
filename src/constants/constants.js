@@ -18,13 +18,22 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'ACA Error Report Producer',
+    description: "Developed an RPA ACA error reporter program to address a significant workload reduction, from 300 hours annually to just one hour. This program translates XML files filled with errors into easily readable formats for client review. Previously, clients submitted two XML files: one detailing employee info with ID numbers, and another with error details but lacking personal info. By automating this process, the program now swiftly generates reports with employee names, error messages, and additional relevant information.",
+    image: './images/report.PNG',
+    tags: ['Python', 'HTML'],
+    source: 'https://github.com/RaphaelG76/Projects/tree/main/ACA_Error_Interpreter',
+    visit: 'https://github.com/RaphaelG76/Projects/blob/main/README.md',
+    id: 2,
+  },
+  {
     title: 'Asteroids',
     description: "I utilized Java to develop an asteroids game. It features a dynamic space ship capable of accelerating, decelerating, and maneuvering based on physics, all while shooting bullets to destroy incoming asteroids.",
       image: './images/asteroids1.png',
       tags: ['Java'],
     source: 'https://github.com/RaphaelG76/Projects/tree/main/Asteroids',
     visit: 'https://www.youtube.com/watch?v=LWAWSuDE1WM',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Responsive UI/UX Website',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['React','JavaScript'],
     source: 'https://github.com/RaphaelG76/Projects/tree/main/gpt3_jsm',
     visit: 'https://raphaelg76.github.io/gpt3_jsm/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Pygame Street Fighter',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['Python','Pygame'],
     source: 'https://github.com/RaphaelG76/Projects/tree/main/fight_game',
     visit: 'https://www.youtube.com/watch?v=T5sXoqofiLM',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Serverless Web Application',
@@ -51,7 +60,7 @@ export const projects = [
     tags: ['AWS Amplify','Cognito','Amazon API Gateway','AWS Lambda','DynamoDB'],
     source: 'https://github.com/RaphaelG76/Projects/edit/main/README.md',
     visit: 'https://github.com/RaphaelG76/Projects/edit/main/README.md',
-    id: 5,
+    id: 6,
   },
   {
     title: 'Deploying WordPress Application',
@@ -60,7 +69,7 @@ export const projects = [
     tags: ['EC2','RDS','VPC','Elastic Beanstalk'],
     source: 'https://github.com/RaphaelG76/Projects/edit/main/README.md',
     visit: 'https://github.com/RaphaelG76/Projects/edit/main/README.md',
-    id: 6,
+    id: 7,
   },
 ];
 
