@@ -19,11 +19,11 @@ export const projects = [
   },
   {
     title: 'ACA Error Report Producer',
-    description: "Developed an RPA ACA error reporter program to address a significant workload reduction, from 300 hours annually to just one hour. This program translates XML files filled with errors into easily readable formats for client review. Previously, clients submitted two XML files: one detailing employee info with ID numbers, and another with error details but lacking personal info. By automating this process, the program now swiftly generates reports with employee names, error messages, and additional relevant information.",
-    image: './images/report.PNG',
+    description: "Developed an RPA ACA error reporter program to address a significant workload reduction, from 300 hours annually to just one hour. This program translates XML files filled with errors into easily readable formats for client review. Previously, clients submitted two XML files: one detailing employee info, and another with error details but lacking personal info. By automating this process, client may now swiftly generate reports including employee names, error messages, and additional relevant information.",
+    image: './images/report.png',
     tags: ['Python', 'HTML'],
     source: 'https://github.com/RaphaelG76/Projects/tree/main/ACA_Error_Interpreter',
-    visit: 'https://github.com/RaphaelG76/Projects/blob/main/README.md',
+    visit: 'https://www.youtube.com/watch?v=vMIt3YMnmq0',
     id: 2,
   },
   {
